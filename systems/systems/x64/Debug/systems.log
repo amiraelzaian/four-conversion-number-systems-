@@ -1,0 +1,5 @@
+﻿  systems.cpp
+C:\Users\aldawlia\source\repos\systems\systems\systems.cpp(51,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\aldawlia\source\repos\systems\systems\systems.cpp(151,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\aldawlia\source\repos\systems\systems\systems.cpp(179,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  systems.vcxproj -> C:\Users\aldawlia\source\repos\systems\systems\x64\Debug\systems.exe
